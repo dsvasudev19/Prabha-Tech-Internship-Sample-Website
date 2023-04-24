@@ -102,7 +102,7 @@
     margin-left: 100px;
   }
   .car-slide{
-    width: 45%;
+    width: 55%;
     height: 30%;
     /* padding: 0 20%; */
     margin: auto;
@@ -138,8 +138,11 @@
     margin: auto;
   }
   .clients img{
+    
     width: 100px;
     height: 100px;
+    aspect-ratio: 3/2;
+    
   }
   .events{
     padding: 3% 48%;
@@ -151,6 +154,7 @@
     height: 100px;
     border-radius: 50%;
     margin-left: 50px;
+    
   
   }
   .test1,.test2,.test3{
@@ -168,3 +172,22 @@
   .test3{
     margin-left: 1%;
   } */
+  .lets{
+    padding: auto;
+    margin: auto;
+    padding-left: 15%;
+  }
+  .footer-section{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: auto;
+  }
+  .links{
+    justify-content: flex-end;
+    padding-left: 70%;
+    
+  }
+  .copy-links{
+    display: flex;
+  }
