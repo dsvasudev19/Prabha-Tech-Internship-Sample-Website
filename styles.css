@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+nav{
+  background-color: #0062cc;
+}
+.container-fluid{
+  background-color: #0062cc;
+}
 .navigation-bar,.navbar{
     background-color: blue;
     color: white;
@@ -11,7 +17,8 @@
     height: 50px;
 }
 .nav-items{
-    margin-left: auto;
+    
+    margin-left: 60%;
     justify-content: space-between;
 }
 .main-content{
