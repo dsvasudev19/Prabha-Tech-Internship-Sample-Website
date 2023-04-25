@@ -317,6 +317,9 @@
     margin-left: auto;
  /* max-width: fit-content; */
 }
+.test3{
+  margin-bottom:10% ;
+}
 
 @media (min-width:500px){
   .testimonal-details{
@@ -334,4 +337,8 @@
     height: fit-content;
   }
 
+}
+.heading-test{
+  padding: 2% 35%;
+  margin: auto;
 }
