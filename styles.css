@@ -141,6 +141,7 @@
     width: 100px;
     height: 100px;
     aspect-ratio: 3/2;
+    object-fit: contain;
     
   }
   .events{
